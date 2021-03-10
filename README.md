@@ -3,7 +3,7 @@
 ![release](https://img.shields.io/github/v/release/Keerthi001/PySodium?include_prereleases)
 ![PyPI-Python-version](https://img.shields.io/pypi/pyversions/py-sodium)
 ![PyPI-wheel](https://img.shields.io/pypi/wheel/py-sodium)
-![release-date](https://img.shields.io/github/release-date-pre/satyajitghana/PySodium)
+![release-date](https://img.shields.io/github/release-date-pre/Keerthi001/PySodium)
 ![license](https://img.shields.io/github/license/Keerthi001/pysodium)
 ![maintainer](https://img.shields.io/badge/maintainer-shadowleaf-blue)
 
@@ -11,7 +11,7 @@
 
 1. Install the PySodium Library
 
-`pip install git+https://github.com/satyajitghana/PySodium.git#egg=sodium`
+`pip install git+https://github.com/Keerthi001/PySodium.git#egg=sodium`
 
 2. Create a config.yml
 
