@@ -1,6 +1,6 @@
 # PySodium V0.0.2
 
-![release](https://img.shields.io/github/v/release/satyajitghana/PySodium?include_prereleases)
+![release](https://img.shields.io/github/v/release/Keerthi001/PySodium?include_prereleases)
 ![PyPI-Python-version](https://img.shields.io/pypi/pyversions/py-sodium)
 ![PyPI-wheel](https://img.shields.io/pypi/wheel/py-sodium)
 ![release-date](https://img.shields.io/github/release-date-pre/satyajitghana/PySodium)
@@ -102,4 +102,4 @@ conda install -c conda-forge opencv
 
 ---
 
-Made with ❤ by shadowleaf.satyajit
+
