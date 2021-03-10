@@ -4,7 +4,7 @@
 ![PyPI-Python-version](https://img.shields.io/pypi/pyversions/py-sodium)
 ![PyPI-wheel](https://img.shields.io/pypi/wheel/py-sodium)
 ![release-date](https://img.shields.io/github/release-date-pre/satyajitghana/PySodium)
-![license](https://img.shields.io/github/license/satyajitghana/pysodium)
+![license](https://img.shields.io/github/license/Keerthi001/pysodium)
 ![maintainer](https://img.shields.io/badge/maintainer-shadowleaf-blue)
 
 ## Usage
