@@ -9,12 +9,12 @@ with open('requirements.txt', 'r') as fh:
 setuptools.setup(
     name="py-sodium",  # Replace with your own username
     version="0.0.2",
-    author="Satyajit Ghana",
-    author_email="satyajitghana7@gmail.com",
+    author="Keerthi",
+    author_email="kkeerthi432@gmail.com",
     description="PySodium",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/satyajitghana/PySodium",
+    url="https://github.com/Keerthi001/PySodium",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
